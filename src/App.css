@@ -173,6 +173,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-basis: 75%;
 
   /** Class for the joke text. Add it to a <p> element*/
   .joke-list-item-text {
